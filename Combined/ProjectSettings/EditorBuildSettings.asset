@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu/MainScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Snake 3D/SnakeGame.unity
+    guid: cfaa13e14e39c2d409ba5016dfbb6eb6
+  - enabled: 1
+    path: Assets/Scenes/Spring 3D/SpringGame.unity
+    guid: 2978552030d0c8e46903434815d4e863
+  - enabled: 1
+    path: Assets/Scenes/Coloring 3D/ColorGame.unity
+    guid: 1239f2f00dad3fa41aa7d6e6bb752684
   m_configObjects: {}
